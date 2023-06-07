@@ -1,3 +1,5 @@
+https://github.com/OpenEtherCATsociety/SOES/issues/121#issuecomment-1175789968
+
 Simple Open Source EtherCAT Slave
 ====
 [![Build Status](https://github.com/OpenEtherCATsociety/SOES/workflows/build/badge.svg?branch=master)](https://github.com/OpenEtherCATsociety/SOES/actions?workflow=build)
